@@ -1,0 +1,39 @@
+1) How many pennies could you put on the Golden Gate Bridge without any of them overlapping? For this question, please write out each step in your thought process.
+
+Step 1: Find the dimensions of the Golden Gate Bridge.
+	In this step, I searched the internet to find the length and width of the of the bridge itself.  I used multiple sources* to determine that the width is 90 feet, and the length is 8,981 feet.
+	
+Step 2: Find the diameter of a penny.
+	I also used an internet source** to find the diameter of a penny, which is .750 inches.
+
+Step 3: Create penny into a "square."
+	Because the diameter is .750 inches, I can use that length to create a square representing the penny through tangent lines.  If a circle is drawn on a (x,y) graph(with it's center being at the origin(0,0)) using the diameter of the penny, it would show that the tangent lines drawn on the x and -x axes would be .750 inches apart.  The same would go for the y and -y axes.  These 4 tangent lines will create the square to be used to represent the penny. Also, each of the four tangents will be the point at which the next penny is placed.  The extra area outside of the penny but inside the square would not affect the answer because the pennies will lay flat, side by side each other.
+ 
+Step 4: Find the penny's "square" area.
+	I used the formula for surface area to find the penny's.
+
+Area(inches^2) = Width(.750in) x .Length(.750in) = .5625 inches^2
+
+Step 5: Calculate dimensions of bridge in inches.
+	Because I found the penny's area in inches, the dimensions of the bridge will also need to be in inches.
+
+Width of Bridge(inches) = 90(width of bridge in feet) x 12(inches per foot) = 1080 inches
+Length of Bridge(inches) = 8981(length of bridge in feet) x 12(inches per foot) = 107772 inches
+
+Step 6: Calculate surface area of bridge.
+
+Area of Bridge(inches^2) = 107772(length of bridge in inches) x 1080(width of bridge in inches) = 116393760 inches^2
+
+Step 6: Calculate how many pennies could be placed on the bridge.
+	If each penny is .5625 inches^2 in area, and the bridge's total surface area is 116393760 inches^2, simple division will find the number of pennies needed to answer the question.
+	
+Number of Pennies = 116393760 inches^2 / .5625 inches^2 = 206,922,240 pennies
+
+or
+
+$2,069,222.40 in pennies!
+
+
+* Golden Gate Bridge Sources: http://gocalifornia.about.com/cs/sanfrancisco/a/ggbridge_3.htm, http://www.learnersonline.com/weekly/archive2K/week11/index.htm
+
+** Diameter of a penny Source: http://www.usmint.gov/about_the_mint/?action=coin_specifications

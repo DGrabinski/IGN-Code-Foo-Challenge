@@ -1,0 +1,10 @@
+2) Our images have a ratio of 16:9, and our design layouts have 12 pixel wide increments (there are no limits on height). Give examples of three image sizes that would have the correct ratio and would fit the design layout.
+
+
+	If each image ratio needed to be 16:9, and each design layout has 12 pixel wide increments, then the images' sizes would need to be divisible by 12 evenly while keeping the correct ratio.  The three examples are:
+
+	a) 192 x 108
+
+	b) 384 x 216
+
+	c) 768 x 432
